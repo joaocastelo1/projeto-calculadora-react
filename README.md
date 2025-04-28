@@ -20,7 +20,7 @@ Clone o repositório:
 bash
 Copiar
 Editar
-git clone https://github.com/seuusuario/calculadora-react.git
+git clone https://github.com/joaocastelo1/calculadora-react.git
 Acesse a pasta do projeto:
 
 bash
@@ -61,7 +61,7 @@ Melhorar o design visual.
 
 📝 Licença
 Projeto desenvolvido para fins educacionais.
-© 2025 - Seu Nome
+© 2025 - João Castelo de Sousa Ferreira
 
 
 ---
